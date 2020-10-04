@@ -1,0 +1,39 @@
+body {
+  background-color: #ffffff;
+  /* background-image: url(timg.jpg); */
+  background-size:100%;
+}
+h1 {
+  background-color: #ffffff;
+  color:#915271;
+  text-align: center;
+  font-size: 400%; 
+}
+
+h2 {
+  background-color: transparent;
+}
+
+.datetime{
+    width:650px;
+    margin: 0 auto;
+    text-align: center;
+    border:5px solid red;
+}
+
+#time {
+    font-size: 400%; 
+    color:#43c905;
+}
+#yuan {
+    font-size: 400%; 
+    color:#d10e3f;
+}
+.text {
+  color: #1b1315;
+  text-align: left;
+  font-size: 120%;
+  margin: 0 auto;
+  width: 800px;
+  border:1px solid green;
+}
